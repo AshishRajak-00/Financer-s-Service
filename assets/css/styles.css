@@ -484,3 +484,8 @@ img {
     width: 450px;
   }
 }
+
+
+.l-main {
+  background-color: antiquewhite !important;
+}
